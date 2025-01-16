@@ -2,9 +2,9 @@
 
 💬 I consider myself a somewhat lazy person, but when something catches my attention I focus too much on it and thanks to that I have achieved great things. I like to solve problems with a technological approach.
 
-🌱 Some of my passions are: Animation, music production, and of course, programming. I have a lot of fun solving problems, it's like putting together a puzzle in which each piece leads you to the next piece, and when you finish the puzzle, you feel an indescribable satisfaction.
+🌱 Some of my passions are: Animation, music production, and of course, programming. I have a lot of fun solving problems, it's like putting together a puzzle in which each piece leads you to the next piece.
 
-⚡ By the way, I really enjoy learning as I go along, I know that sometimes it can be tiring, but I consider that learning by doing is the best way to do it.
+⚡ I really enjoy learning as I go along, I know that sometimes it can be tiring, but I consider that learning by doing is the best way to do it.
 
 ![alt text](https://citris-uc.org/wp-content/uploads/2019/10/Tec-de-Monterrey-logo-horizontal-blue.png)
 <!--
