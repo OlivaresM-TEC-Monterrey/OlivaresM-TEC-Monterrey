@@ -6,6 +6,7 @@
 
 ⚡ By the way, I really enjoy learning as I go along, I know that sometimes it can be tiring, but I consider that learning by doing is the best way to do it.
 
+![alt text](https://th.bing.com/th/id/R.8a4e13413d8535d56946bfd8b4887d37?rik=0E8WCgZj2QoVGg&pid=ImgRaw&r=0)
 <!--
 **OlivaresM-TEC-Monterrey/OlivaresM-TEC-Monterrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
